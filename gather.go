@@ -17,8 +17,8 @@ import (
 	"github.com/pion/ice/v3/internal/fakenet"
 	stunx "github.com/pion/ice/v3/internal/stun"
 	"github.com/pion/logging"
-	"github.com/pion/stun/v2"
-	"github.com/pion/turn/v3"
+	"github.com/theodorsm/stun/v2"
+	"github.com/theodorsm/turn/v3"
 )
 
 // Close a net.Conn and log if we have a failure

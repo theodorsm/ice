@@ -20,7 +20,7 @@ import (
 	"github.com/pion/ice/v3/internal/taskloop"
 	"github.com/pion/logging"
 	"github.com/pion/mdns/v2"
-	"github.com/pion/stun/v2"
+	"github.com/theodorsm/stun/v2"
 	"github.com/pion/transport/v3"
 	"github.com/pion/transport/v3/packetio"
 	"github.com/pion/transport/v3/stdnet"
